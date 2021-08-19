@@ -1,4 +1,4 @@
-# hello
+# hexlant-blog
 
 ## Project setup
 ```
