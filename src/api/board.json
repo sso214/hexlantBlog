@@ -1,0 +1,52 @@
+{
+  "list": [
+    {
+      "idx": 1,
+      "category": "새소식",
+      "title": "헥슬란트 사람들",
+      "subTitle": "헥슬란트에는 어떤 사람들이 일하고 있을까?",
+      "thumbnail": "https://hexlant.com/static/common/img/main-business01.png",
+      "createDate": 1556515353000
+    },
+    {
+      "idx": 2,
+      "category": "새소식",
+      "title": "헥슬란트 사람들",
+      "subTitle": "헥슬란트에는 어떤 사람들이 일하고 있을까?",
+      "thumbnail": "https://hexlant.com/static/common/img/main-business01.png",
+      "createDate": 1556515353000
+    },
+    {
+      "idx": 3,
+      "category": "새소식",
+      "title": "헥슬란트 사람들",
+      "subTitle": "헥슬란트에는 어떤 사람들이 일하고 있을까?",
+      "thumbnail": "https://hexlant.com/static/common/img/main-business01.png",
+      "createDate": 1556515353000
+    },
+    {
+      "idx": 4,
+      "category": "새소식",
+      "title": "헥슬란트 사람들",
+      "subTitle": "헥슬란트에는 어떤 사람들이 일하고 있을까?",
+      "thumbnail": "https://hexlant.com/static/common/img/main-business01.png",
+      "createDate": 1556515353000
+    },
+    {
+      "idx": 5,
+      "category": "새소식",
+      "title": "헥슬란트 사람들",
+      "subTitle": "헥슬란트에는 어떤 사람들이 일하고 있을까?",
+      "thumbnail": "https://hexlant.com/static/common/img/main-business01.png",
+      "createDate": 1556515353000
+    },
+    {
+      "idx": 6,
+      "category": "새소식",
+      "title": "헥슬란트 사람들",
+      "subTitle": "헥슬란트에는 어떤 사람들이 일하고 있을까?",
+      "thumbnail": "https://hexlant.com/static/common/img/main-business01.png",
+      "createDate": 1556515353000
+    }
+  ]
+}
